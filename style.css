@@ -88,6 +88,7 @@ section {
   width: 205px;
   height: 205px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .faceIconContainer p {
@@ -132,6 +133,3 @@ section {
   margin-left: 20px;
 }
 
-.profile-img {
-  object-fit: cover;
-}
